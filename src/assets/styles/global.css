@@ -1,0 +1,35 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  font-weight: 400;
+  height: 100%;
+  width: 100%;
+  background-color: #19191B;
+  ;
+}
+
+path {
+  fill: currentColor;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+.color--dk-purple{
+  color: #1E1950;
+}
+.color--md-orange{
+  color: #FF893A;
+}
+.bg--dk-purple{
+  background-color: #1E1950;
+}
+.bg--md-orange{
+  background-color: #FF893A;
+}
